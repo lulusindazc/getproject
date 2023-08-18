@@ -1,6 +1,6 @@
 # Get
 
-This is the repository that contains source code for the [Get website](https://lulusindazc.github.io/get_project/).
+This is the repository that contains source code for the [Get website](https://lulusindazc.github.io/getproject/).
 
 If you find Get useful for your work please cite:
 ```
