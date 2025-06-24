@@ -4,11 +4,13 @@ This is the repository that contains source code for the [Get website](https://l
 
 If you find Get useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Can Zhang and Gim Hee Lee},
-  title     = {GeT: Generative Target Structure Debiasing for Domain Adaptation},
-  journal   = {ICCV},
-  year      = {2023},
+@InProceedings{Zhang_2023_ICCV,
+    author    = {Zhang, Can and Lee, Gim Hee},
+    title     = {GeT: Generative Target Structure Debiasing for Domain Adaptation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {23577-23588}
 }
 ```
 
